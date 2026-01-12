@@ -5,7 +5,7 @@
 
 A Python-based simulation system for analyzing household wealth formation patterns across different economic environments. Features a green wireframe aesthetic visualization matching classic vector graphics displays.
 
-![cover](dev/circleverses2.png)
+![cover](dev/circleverse2.PNG)
 
 ## Core Concepts
 
